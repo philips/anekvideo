@@ -1,0 +1,8 @@
+Test the basic log functionality
+
+	$ tests/log
+	> main() debug
+	> main() info
+	> main() notice
+	> main() warn
+	> main() error

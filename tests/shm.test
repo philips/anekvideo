@@ -1,0 +1,4 @@
+Test the basic shm functionality
+
+	$ tests/shm
+	$ ls /dev/shm/* | grep anek

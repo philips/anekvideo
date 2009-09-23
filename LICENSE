@@ -1,0 +1,4 @@
+src/ - AnekVideo source code is licensed under LGPL 2.1 ONLY see LGPL-2.1
+       if you need a later version of the LGPL please contact me
+
+ccan/ - ccan code is licensed under LGPL 2.0+ see LGPL-2.0

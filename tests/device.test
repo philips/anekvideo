@@ -1,0 +1,5 @@
+
+	$ tests/device
+	> av_device_new_from_path() start
+	> av_device_setup_from_path() open(/anekvideorocks) failed
+	> av_device_new_from_path() start
